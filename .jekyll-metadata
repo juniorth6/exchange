@@ -1,0 +1,975 @@
+---
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-01-faq-what-is-bitcoin.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-01-faq-what-is-a-bitcoin-exchange.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-01-faq-how-does-a-bitcoin-exchange-work.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-01-faq-how-does-a-bitcoin-exchange-works.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-01-faq-does-the-exchange-buy-or-sell-bitcoins-directly.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+? /Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-01-faq-what-is-the-relationship-between-the-exchange-and-blinktrade.markdown
+: mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-01-faq-how-do-i-open-my-own-bitcoin-exchange.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-how-do-I-deactivate-my-exchange-trader-account.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-05-welcome-to-blinktrade.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-01-faq-how-do-I-become-a-trader.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-01-faq-how-do-I-deposit-local-currency-into-my-account.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-how-to-deposit-BTC.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-how-to-withdraw-FIAT.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-how-to-withdraw-BTC.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-is-your-bitcoin-safe.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-why-don't-I-have-a-private-key-for-my-exchange-wallet.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-how-to-trade.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-do-I-have-to-pay-fees.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-how-to-cancel-accidental-orders.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-how-long-does-a-FIAT-deposit-confirmation-take.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-how-long-does-a-BTC-deposit-take.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-what-is-the-instant-deposit-mode.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+? /Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-can-I-deposit-funds-from-a-bank-account-other-than-my-own.markdown
+: mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-how-long-does-a-FIAT-withdrawal-take.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-how-long-does-a-BTC-withdrawal-take.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-who-pays-the-withdrawal-fee.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-where-is-your-bank-account-information.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-10-faq-why-are-the-user-names-shown-in-the-order-book.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-10-faq-hours-of-operation.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-can-I-audit-the-balance-of-the-wallets-of-the-exchange.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+? /Users/isaiasantunes/exchange/_i18n/en_US/_posts/2014-11-07-faq-can-I-keep-track-of-all-my-past-activity-on-the-platform.markdown
+: mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/chart.html:
+  mtime: 2015-02-05 00:45:44.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/themes/ander/chart.html:
+  mtime: 2015-02-05 00:45:44.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/themes/whitedev/chart.html:
+  mtime: 2015-02-05 00:45:44.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/themes/default/chart.html:
+  mtime: 2015-02-05 00:45:44.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/feed.xml:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/index.html:
+  mtime: 2015-02-05 00:45:44.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/application.default.html
+/Users/isaiasantunes/exchange/themes/default/index.html:
+  mtime: 2015-02-05 00:45:44.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/application.default.html
+/Users/isaiasantunes/exchange/themes/ander/index.html:
+  mtime: 2015-02-05 00:45:44.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/header.ander.html
+  - /Users/isaiasantunes/exchange/_includes/footer.ander.html
+  - /Users/isaiasantunes/exchange/_layouts/application.ander.html
+/Users/isaiasantunes/exchange/themes/whitedev/index.html:
+  mtime: 2015-02-05 00:45:44.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/header.whitedev.html
+  - /Users/isaiasantunes/exchange/_includes/footer.whitedev.html
+  - /Users/isaiasantunes/exchange/_layouts/application.whitedev.html
+/Users/isaiasantunes/exchange/assets/exchange_logos/chilebit_favicon.ico:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/chilebit_landing_page_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/chilebit_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/chilebit_social_network_share.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/chilebit_toolbar_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/coinstrabeta.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/coinstrabeta2.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/demo_favicon.ico:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/demo_landing_page_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/demo_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/demo_social_network_share.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/demo_toolbar_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/foxbit_favicon.ico:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/foxbit_landing_page_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/foxbit_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/foxbit_social_networ_share.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/foxbit_toolbar_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/guaranibitcoinbeta.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/guaranibitcoinbeta2.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/romaniabex_favicon.ico:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/romaniabex_landing_page_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/romaniabex_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/romaniabex_social_network_share.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/romaniabex_toolbar_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/surbitcoin_favicon.ico:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/surbitcoin_landing_page_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/surbitcoin_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/surbitcoin_social_network_share.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/surbitcoin_toolbar_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/ubuntubitx-logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/urdubit_favicon.ico:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/urdubit_landing_page_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/urdubit_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/urdubit_social_network_share.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/exchange_logos/urdubit_toolbar_logo.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.en_US.ander.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.en_US.default.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.en_US.whitedev.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.es.ander.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.es.default.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.es.whitedev.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.pt_BR.ander.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.pt_BR.default.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.pt_BR.whitedev.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.ro.ander.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.ro.default.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.ro.whitedev.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.zn_CN.ander.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.zn_CN.default.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/bitex_app_blink_trade.compiled.zn_CN.whitedev.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/js/externs/parsley.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/res/beep.wav:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/ander/css/blinktrade.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/ander/sass/blinktrade.scss:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/ander/sass/bower_components/dragoncss/LICENSE:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/ander/sass/bower_components/dragoncss/README.md:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/ander/sass/bower_components/dragoncss/bower.json:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/ander/sass/bower_components/dragoncss/dragoncss.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/Dialog.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/bootstrap-combined.min.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/bootstrap-docs.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/default.uni-form.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/docs.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/escrow_style.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/font-awesome.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/font-awesome.min.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/fuelux.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/sticky.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/style-new.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/css/style.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/font/FontAwesome.otf:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/font/fontawesome-webfont.eot:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/font/fontawesome-webfont.svg:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/font/fontawesome-webfont.ttf:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/font/fontawesome-webfont.woff:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/img/glyphicons-halflings-white.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/img/glyphicons-halflings.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/default/img/head-btn.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/Dialog.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/bootstrap-combined.min.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/bootstrap-docs.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/default.uni-form.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/docs.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/escrow_style.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/font-awesome.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/font-awesome.min.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/fuelux.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/sticky.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/style-new.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/css/style.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/font/FontAwesome.otf:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/font/fontawesome-webfont.eot:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/font/fontawesome-webfont.svg:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/font/fontawesome-webfont.ttf:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/font/fontawesome-webfont.woff:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/fonts/axis.otf:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/fonts/flaticon.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/fonts/flaticon.eot:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/fonts/flaticon.html:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/fonts/flaticon.svg:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/fonts/flaticon.ttf:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/fonts/flaticon.woff:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/images/logo-1.svg:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/images/ls-smile.gif:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/img/glyphicons-halflings-white.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/img/glyphicons-halflings.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/img/head-btn.png:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/javascripts/docs/panel-charts.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/javascripts/docs/test.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/javascripts/example.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/javascripts/system.js:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle-docs.eot:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle-docs.json:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle-docs.svg:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle-docs.ttf:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle-docs.woff:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle-panel-icons.eot:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle-panel-icons.json:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle-panel-icons.svg:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle-panel-icons.ttf:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle-panel-icons.woff:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle.eot:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle.svg:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle.ttf:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/fonts/locastyle.woff:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/assets/themes/whitedev/stylesheets/grid.css:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-10-faq-horarios.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-que-es-Bitcoin.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-que-se-entiendo-por-FIAT.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-que-es-una-plataforma-de-intercambio-de-bitcoins.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-como-funciona-el-exchange-de-bitcoins.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-el-exchange-compra-y-vende-bitcoins-de-forma-directa.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-cual-es-la-relacion-entre-el-exchange-y-blinktrade.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+? /Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-cuales-son-los-pasos-a-seguir-para-registrarme-en-el-exchange.markdown
+: mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-como-depositar-FIAT-en-mi-cuenta.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-como-depositar-btc-en-mi-cuenta.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-como-retirar-FIAT.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-como-retirar-btc-de-mi-cuenta.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-estan-seguros-mis-bitcoins.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-como-efectuar-el-intercambio-de-BTC-por-FIAT.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-que-es-el-libro-de-ordenes.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-debo-pagar-tasas-o-comisiones.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-como-cancelar-ordenes-accidentales.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-cuanto-tarda-en-confirmar-un-deposito-en-FIAT.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-cuanto-tarda-en-confirmar-un-deposito-en-btc.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-que-es-el-modo-de-depositos-instantaneos.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+? /Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-puedo-depositar-fondos-desde-una-cuenta-bancaria-que-no-sea-la-mia.markdown
+: mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-cuanto-se-tarda-en-retirar-FIAT.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-cuanto-se-tarda-en-retirar-BTC.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-quien-paga-las-tasas-de-retiro.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-donde-se-puede-encontrar-la-informacion-bancaria.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-pueden-auditarse-las-direcciones-de-almacenamiento-de-BTC.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+? /Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-puedo-mantener-un-registro-de-toda-mi-actividad-en-la-plataforma.markdown
+: mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-como-desactivar-mi-cuenta-en-el-exchange.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+? /Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-porque-no-poseo-la-llave-privada-de-mi-cartera-en-el-exchange.markdown
+: mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-07-faq-que-alternativa-hay-al-uso-del-libro-de-ordenes.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+? /Users/isaiasantunes/exchange/_i18n/es/_posts/2014-11-10-faq-porque-se-publica-el-nombre-de-usuario-en-el-libro-de-ordenes.markdown
+: mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/pt_BR/_posts/2014-11-05-bem-vindo-a-blinktrade.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-01-faq-what-is-bitcoin.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-01-faq-does-the-exchange-buy-or-sell-bitcoins-directly.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-01-faq-how-do-I-become-a-trader.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-01-faq-how-do-I-deposit-local-currency-into-my-account.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-07-faq-is-your-bitcoin-safe.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-07-faq-why-don't-I-have-a-private-key-for-my-exchange-wallet.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps:
+  - /Users/isaiasantunes/exchange/_includes/post.html
+  - /Users/isaiasantunes/exchange/_layouts/post.html
+  - /Users/isaiasantunes/exchange/_includes/header.default.html
+  - /Users/isaiasantunes/exchange/_includes/footer.default.html
+  - /Users/isaiasantunes/exchange/_layouts/default.html
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-07-faq-can-I-audit-the-balance-of-the-wallets-of-the-exchange.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-07-faq-can-I-keep-track-of-all-my-past-activity-on-the-platform.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-07-faq-how-to-trade.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-07-faq-how-to-withdraw-BTC.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
+/Users/isaiasantunes/exchange/_i18n/ro/_posts/2014-11-07-faq-what-is-the-instant-deposit-mode.markdown:
+  mtime: 2015-02-05 00:45:43.000000000 -02:00
+  deps: []
